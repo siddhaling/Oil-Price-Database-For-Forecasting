@@ -12,7 +12,7 @@ Futures, S&P 500 Futures, US Dollar Index, US 10 Year Bond Yield and Dow Jones U
 
 ![image](https://user-images.githubusercontent.com/33411128/124113129-223aa280-da7c-11eb-9dda-ba56e0241c83.png)
 
-This reseach is the published in 
+This research is published in 
 
 ![image](https://user-images.githubusercontent.com/33411128/124113948-0edc0700-da7d-11eb-87a5-0eeea1debd5a.png)
 
